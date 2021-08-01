@@ -1,7 +1,5 @@
 # Bhoojal - Ground Water Monitoring and Regulation with Azure
 
-*Note: This project is a submission for the Hacker Earth - Azure Developer League. ONLY the readme is being updated beyond the submission deadline to make sure visitors to the repo are aware of the problems statement being addressed and the solution structure.*
-
 ## Contents
 - [Problem Statement](#problem-statement)
 - [Proposed Solution](#proposed-solution)
